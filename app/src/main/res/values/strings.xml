@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button Counter</string>
+    <string name="add_lable">Add</string>
+    <string name="add_hint">Enter item to be added to the list</string>
+</resources>
